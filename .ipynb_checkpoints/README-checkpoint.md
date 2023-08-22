@@ -1,3 +1,3 @@
 # link-git-test-public
 
-- This is a test repository.
+- update readme.md with link git ui
